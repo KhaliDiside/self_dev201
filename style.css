@@ -4,25 +4,19 @@ body {
 }
 
 .half-width {
-    margin: 10%;
-
-}
-
-.link-button {
-    border: 10px;
-    background-color: palevioletred;
-    border-radius: 10px;
-
-
+    width: 40%;
+    height: 30%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
 }
 
 h1 {
     font-size: 50px;
-    color: yellow;
 }
 
 .top-banner {
     background-image: url(images/header-bg.png);
     background-repeat: no-repeat;
-    float: left;
+
 }
